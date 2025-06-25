@@ -74,7 +74,7 @@ To perform a comprehensive sales data analysis to:
 
 2. Open SalesDataAnalysis.xlsx in Excel to explore raw data
 
-3. Open SalesDashboard.pbix in Power BI (if available) to explore the dashboard
+3. Open SalesDashboard.pbix in Power BI to explore the dashboard
 
 4. Or view the final dashboard screenshot provided above
 
