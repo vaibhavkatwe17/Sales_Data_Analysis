@@ -7,6 +7,13 @@
 **File Name:** SalesDataAnalysis.xlsx  
 **Description:** Contains sales data including order IDs, product categories, cities, purchase types, and sales managers.
 
+
+**Problem Statement**
+The company is experiencing fluctuations in sales performance across different cities, product categories, and sales channels. However, there is limited visibility into which products are driving the most revenue, which cities or managers are underperforming, and how customer purchasing behavior varies over time. The lack of actionable insights makes it challenging for stakeholders to make informed decisions that can improve overall profitability and operational efficiency.
+
+This project aims to analyze historical sales data to uncover trends, identify top and underperforming segments, and provide data-driven insights to enhance strategic planning, marketing efforts, and resource allocation.
+
+
 ## Objective
 
 To perform a comprehensive sales data analysis to:
